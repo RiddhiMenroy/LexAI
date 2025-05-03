@@ -1,1 +1,5 @@
-﻿## This repo contains all the projects under the LexAI Fellowship
+﻿##  LexAI Fellowship
+### - Linear Regression
+### - Logistic Regression (using the Iris dataset)
+### - Linear Algebra
+### - PCA: Principal Component Analysis
